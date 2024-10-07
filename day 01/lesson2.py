@@ -4,7 +4,8 @@ Full_name = "Irakli Mebonia"
 
 print("Hello My name is " + Full_name)
 
-age = 17
+age =+17
+age = 1
 print("i'm "+  str(age) +" Year Old")
 
 height = 183.5
