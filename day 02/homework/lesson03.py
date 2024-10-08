@@ -1,15 +1,15 @@
 Name="Irakli"
-print("Hello my name is " + Name)
+print("Hello my name is" , Name)
 
 age=17
-print("I'm " + str(age) + "Year Old")
+print("I'm " , age , "Year old")
 
 
 Mothername="Nino"
 print("My mother's name is " + Mothername)
 
 Motherage=45
-print("He is " + str(Motherage) + "Year Old")
+print("He is " + str(Motherage) + "Year old")
 
 
 FatherName="Demuri"
