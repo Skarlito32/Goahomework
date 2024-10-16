@@ -3,9 +3,9 @@
 
 #firstname
 
-user_first_name = str(input("Enter your First_name: "))                           #აქ შეგვიძლია რო სტრ ვაბშე არდაავწეროთ მარა რადგან გვინდა რო მხოლოდ სახელი და გვარი შემოიტანოს და სხვა რამე არა მივუწეროთ სტრ
+user_first_name = input("Enter your First_name: ")                        #აქ შეგვიძლია რო სტრ ვაბშე არდაავწეროთ მარა რადგან გვინდა რო მხოლოდ სახელი და გვარი შემოიტანოს და სხვა რამე არა მივუწეროთ სტრ
 
-print("Your First_name is" , user_first_name)
+print("Your First_name is" + user_first_name)
 
 #LastName
 
