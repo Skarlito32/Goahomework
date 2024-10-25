@@ -19,6 +19,13 @@ for num in range(10, 50 + 1):
 
 
 
+for i in range(3):
+  print("First")
+  print("Second")
+
+
+
+
 
         
     
