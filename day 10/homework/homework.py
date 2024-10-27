@@ -14,14 +14,13 @@
 # #3)while ციკლის გამოყენებით გამოიტანეთ 1-დან 20-მდე ყველა კენტი რიცხვის ჯამი
 
 
-# number = 1
+#number = 1
 
-# sum = 0
-
-# while number < 21:
-#     sum += number
-#     number = number + 2
-# print(sum)
+#sum = 0
+#while number < 21:
+    #sum += number
+    # number = number + 2
+    # print(sum)
 
 
 
