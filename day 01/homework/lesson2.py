@@ -1,11 +1,11 @@
 name = "irakli"
 surname = "Mebonia"
-Full_name = "Irakli Mebonia"
+full_name = "Irakli Mebonia"
 
-print("Hello My name is " + Full_name)
+print("Hello My name is " + full_name)
 
-age =+17
-age = 1
+age = 17
+
 print("i'm "+  str(age) +" Year Old")
 
 height = 183.5

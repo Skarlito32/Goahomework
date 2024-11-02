@@ -1,7 +1,7 @@
 #2)გამოიტანეთ თქვენი სახელი და გვარი იმდენჯერ, რამდენი წლისაც ხართ
 
 
-for i in range (17):
+for i in range (17):                              
     print("Irakli Mebonia")
 
 
@@ -9,7 +9,7 @@ for i in range (17):
 
 
 
-
+                                                
 for i in range(21):
     print(i)
 
