@@ -25,7 +25,11 @@ while chat_bot:
         print("Bot: It's sad")
     else:
         print("Bot: Sorry, I didn't understand, repeat.")
-        
+        chat_bot = False
+
+print("Good Bye")
+
+ 
 
 
 
