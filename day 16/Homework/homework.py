@@ -15,7 +15,7 @@
 #     if i > higest_number:
 #         higest_number = i
 
-# print(max(number_lyst))
+# print(higest_number)
 
 
 
@@ -28,6 +28,14 @@
 
     
 # numbers = [1, 2, 3, 4, 5, 6, 7, 8,]
+
+# for number in numbers:
+#     sum = 1
+    
+#     for i in range(1, number + 1):
+#         sum *= i
+
+#     print(sum)
 
 
 
@@ -98,12 +106,24 @@
 
 # 7) შექმენით სიმბოლოების სია, სადაც იქნება დუბლიკატები. შექმენით ახალი სია სადაც ყველა სიმბოლო მხოლოდ ერთხელ გვხვდება
 
-# random_names_numbers = ["Irakli", "Giorgi", "Giorgi", "Gigi", "nika", "Mariami", "NIka", 5, 5]
+# random_names = ["Irakli", "Giorgi", "Giorgi", "Gigi", "nika", "Mariami", "NIka", 5, 5]
 
 # result = []
 
 
-# for i in random_names_numbers:
+# for i in random_names:
+#     if result.count(i) == 0:
+#         result.append(i)
+
+
+
+
+# print(result)
+
+
+
+
+# for i in random_names:
 #     if i not in result:
 #         result.append(i)
 
